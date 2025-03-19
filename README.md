@@ -1,11 +1,11 @@
 ## A simple Chrome extension that allows users to:
 
-# Save input text
+### Save input text
 
-# Save the current tab's URL
+### Save the current tab's URL
 
-# View saved links
+### View saved links
 
-# Delete all saved links
+### Delete all saved links
 
 Built with JavaScript, HTML, and CSS. Uses localStorage to store URLs and user input.
